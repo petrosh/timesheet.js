@@ -1,0 +1,45 @@
+{
+  "timelines": [
+    {
+      "title": "books",
+      "start": 2002,
+      "end": 2003,
+      "array": [
+        ["2002", "09/2002", "A freaking awesome time", "lorem"],
+        ["06/2002", "09/2003", "Some great memories", "ipsum"],
+        ["2003", "Had very bad luck"],
+        ["10/2003", "2006", "At least had fun", "dolor"],
+        ["02/2005", "05/2006", "Enjoyed those times as well", "ipsum"],
+        ["07/2005", "09/2005", "Bad luck again", "default"],
+        ["10/2005", "2008", "For a long time nothing happened", "dolor"],
+        ["01/2008", "05/2009", "LOST Season #4", "lorem"],
+        ["01/2009", "05/2009", "LOST Season #4", "sit"],
+        ["02/2010", "05/2010", "LOST Season #5", "lorem"],
+        ["09/2008", "06/2010", "FRINGE #1 & #2", "ipsum"]
+      ]
+    },
+    {
+      "title": "Space Exploration Technologies Corporation",
+      "start": 2002,
+      "end": 2026,
+      "array": [
+        ["06/2002", "Founded"],
+        ["04/2010", "01/2013", "v1.0", "dolor"],
+        ["08/2012", "Dragon", "sit"],
+        ["09/2013", "06/2015", "v1.1", "lorem"],
+        ["01/2016", "v1.1 FT", "ipsum"]
+      ]
+    },
+    {
+      "title": "Tesla Motors, Inc.",
+      "start": 2002,
+      "end": 2026,
+      "array": [
+        ["01/2003", "Founded"],
+        ["11/2008", "11/2012", "Roadster", "lorem"],
+        ["06/2012", "01/2016", "Model S", "ipsum"],
+        ["09/2015", "Model X", "default"]
+      ]
+    }
+  ]
+}

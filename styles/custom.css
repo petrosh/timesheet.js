@@ -1,0 +1,22 @@
+body{
+  margin: 0 20px;
+  width: auto;
+}
+.timesheet,
+.white .timesheet {
+  width: auto;
+}
+
+h2 {
+    color: #ff9112;
+}
+.white h2{
+  color: RGBA(29, 175, 234, 1);
+}
+
+h2 {
+    font-family: "Open Sans";
+    font-size: 30pt;
+    font-weight: 500;
+    line-height: 90px;
+}
